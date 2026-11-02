@@ -48,5 +48,5 @@ docs/         # one-page recommendation memo
 
 \---
 
-Bhupesh Suryawanshi · [LinkedIn](www.linkedin.com/in/bhupesh-suryawanshi) · [Email](mailto:bhupeshsuryavanshi2@gmail.com)
+Bhupesh Suryawanshi · [LinkedIn](https://www.linkedin.com/in/bhupesh-suryawanshi) · [bhupeshsuryavanshi2@gmail.com](mailto:bhupeshsuryavanshi2@gmail.com)
 
