@@ -1,0 +1,6 @@
+olist_*.csv
+product_category_name_translation.csv
+*.zip
+.ipynb_checkpoints/
+__pycache__/
+.env
