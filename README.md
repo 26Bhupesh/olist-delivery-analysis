@@ -2,7 +2,7 @@
 
 **Business question:** As a data analyst on Olist's Operations \& Customer Experience team: is delivery performance driving inconsistent satisfaction scores, and where should Olist fix it first?
 
-!\[Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard/dashboard.png)
 
 ## Key findings
 
